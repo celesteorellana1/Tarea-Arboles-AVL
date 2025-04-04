@@ -1,0 +1,15 @@
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\bin\Debug\net8.0\TAREA ARBOLES AVL.exe
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\bin\Debug\net8.0\TAREA ARBOLES AVL.deps.json
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\bin\Debug\net8.0\TAREA ARBOLES AVL.runtimeconfig.json
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\bin\Debug\net8.0\TAREA ARBOLES AVL.dll
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\bin\Debug\net8.0\TAREA ARBOLES AVL.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.AssemblyInfo.cs
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.sourcelink.json
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.dll
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\refint\TAREA ARBOLES AVL.dll
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.pdb
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\TAREA ARBOLES AVL.genruntimeconfig.cache
+C:\Users\CELESTE ORE\Documents\Semestre 5\Programacion III\TAREA ARBOLES AVL\TAREA ARBOLES AVL\obj\Debug\net8.0\ref\TAREA ARBOLES AVL.dll

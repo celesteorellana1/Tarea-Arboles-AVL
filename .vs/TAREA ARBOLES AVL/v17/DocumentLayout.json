@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|c:\\users\\celeste ore\\documents\\semestre 5\\programacion iii\\tarea arboles avl\\tarea arboles avl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|solutionrelative:tarea arboles avl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|c:\\users\\celeste ore\\documents\\semestre 5\\programacion iii\\tarea arboles avl\\tarea arboles avl\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|solutionrelative:tarea arboles avl\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|c:\\users\\celeste ore\\documents\\semestre 5\\programacion iii\\tarea arboles avl\\tarea arboles avl\\avl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|solutionrelative:tarea arboles avl\\avl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|c:\\users\\celeste ore\\documents\\semestre 5\\programacion iii\\tarea arboles avl\\tarea arboles avl\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478B2A30-C74F-4F10-A99A-B3B4370B5409}|TAREA ARBOLES AVL\\TAREA ARBOLES AVL.csproj|solutionrelative:tarea arboles avl\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\README.md",
+              "RelativeDocumentMoniker": "TAREA ARBOLES AVL\\README.md",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\README.md",
+              "RelativeToolTip": "TAREA ARBOLES AVL\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-04T04:15:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AVL.cs",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\AVL.cs",
+              "RelativeDocumentMoniker": "TAREA ARBOLES AVL\\AVL.cs",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\AVL.cs",
+              "RelativeToolTip": "TAREA ARBOLES AVL\\AVL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:35:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\BST.cs",
+              "RelativeDocumentMoniker": "TAREA ARBOLES AVL\\BST.cs",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\BST.cs",
+              "RelativeToolTip": "TAREA ARBOLES AVL\\BST.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:35:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\Program.cs",
+              "RelativeDocumentMoniker": "TAREA ARBOLES AVL\\Program.cs",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 5\\Programacion III\\TAREA ARBOLES AVL\\TAREA ARBOLES AVL\\Program.cs",
+              "RelativeToolTip": "TAREA ARBOLES AVL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:34:45.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
